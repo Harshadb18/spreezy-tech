@@ -12,3 +12,7 @@ stash example 2
 This is Jay changes for next feature.
 
 File is again updated by Jay again.
+
+This is a new change ready to be meged to devlope. This is a new change ready to be meged to devlope
+This is a new change ready to be meged to devlope.
+This is a new change ready to be meged to devlope.
