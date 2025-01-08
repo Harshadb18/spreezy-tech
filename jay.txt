@@ -2,3 +2,4 @@ this is file created for jay.
 
 
 This is new changes made by jay foe merge conflict example.
+This is new changes made by jay foe merge conflict example.
